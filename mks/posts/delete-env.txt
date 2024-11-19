@@ -1,0 +1,10 @@
+-----------------------------------------
+- Conda Environment Post-Deletion Summary
+-----------------------------------------
+🗓️  Date: [YYYY-MM-DD]
+📦 Name: [VIRTUALENV]
+📂 Path: [VIRTUALENV_PATH]
+🙋‍ Deleted by: [USERNAME]
+
+👉 To recreate the Conda environment
+>>> make create_environment

@@ -1,0 +1,25 @@
+name: rdflow
+channels:
+  - bioconda
+  - r
+  - defaults
+  - conda-forge
+dependencies:
+  - bioconda::snakemake
+  - bioconda::snakemake-wrapper-utils
+  - conda-forge::boost
+  - conda-forge::yq
+  - conda-forge::r-essentials
+  - conda-forge::r-quarto
+  - conda-forge::jupyterlab
+  - conda-forge::jupyterlab-git
+  - conda-forge::ipykernel
+  - conda-forge::ipywidgets
+  - conda-forge::numpy
+  - conda-forge::pandas
+  - conda-forge::matplotlib
+  - conda-forge::seaborn
+  - bioconda::cyvcf2
+  - pip:
+    - pyfiglet
+    - colorama

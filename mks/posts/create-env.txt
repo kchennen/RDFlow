@@ -1,0 +1,6 @@
+✅ New conda environment was successfully created!
+
+👉 Activate with:
+	>>> conda activate [VIRTUALENV_PATH]
+	>>> make update_environment
+	>>> make install
